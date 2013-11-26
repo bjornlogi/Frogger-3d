@@ -1,0 +1,314 @@
+Tply
+v7
+r0
+t383778001.617817
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Info.plist" ply-Info.plist
+cCpResource build/Debug/ply.app/Contents/Resources/fshaderver.glsl fshaderver.glsl
+cCpResource build/Debug/ply.app/Contents/Resources/vshaderver.glsl vshaderver.glsl
+cCpResource build/Debug/ply.app/Contents/Resources/cat.ply cat.ply
+cCpResource build/Debug/ply.app/Contents/Resources/venus.ply venus.ply
+cCpResource build/Debug/ply.app/Contents/Resources/teapot-n.ply teapot-n.ply
+cCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/main.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/InitShader.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply" normal i386
+cTouch "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app"
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004B5FAB1A00000000001A2920
+t1264560922
+s1714464
+
+N/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004CC42BAC000000000000578C
+t1287924652
+s22412
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BD2501F0000000000001659
+t1272074271
+s5721
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BD2501F0000000000025B59
+t1272074271
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004EDEBFD00000000000043360
+t1323220944
+s275296
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/Angel.h
+c0000000050F3FBB3000000000000089C
+t1358166963
+s2204
+i<cmath>
+i<iostream>
+i<OpenGL/OpenGL.h>
+i<GLUT/glut.h>
+i"vec.h"
+i"mat.h"
+i"CheckError.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/CheckError.h
+c0000000050F3FBC70000000000000629
+t1358166983
+s1577
+i<stdio.h>
+i<OpenGL/gl.h>
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp
+c000000004D849B9200000000000008F4
+t1300536210
+s2292
+i"Angel.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app
+t1362069341
+s102
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Info.plist
+t1362068857
+s1210
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply
+t1362069341
+s36736
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/PkgInfo
+t1362068857
+s8
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources/cat.ply
+t1362069200
+s67304
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources/fshaderver.glsl
+t1362068857
+s68
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources/teapot-n.ply
+t1362069340
+s97119
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources/venus.ply
+t1362069223
+s3767120
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources/vshaderver.glsl
+t1362068857
+s1226
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/InitShader.o
+t1362068858
+s71580
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/main.o
+t1362069341
+s93300
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.LinkFileList
+c00000000512F857900000000000001B5
+t1362068857
+s437
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.o
+t1362068918
+s75816
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/cat.ply
+c00000000512146CE00000000000106E8
+t1361135310
+s67304
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/fshaderver.glsl
+c00000000512F650E0000000000000044
+t1362060558
+s68
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp
+c00000000512F875C000000000000183B
+t1362069340
+s6203
+i"Angel.h"
+i<assert.h>
+i"ply.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/mat.h
+c0000000050F5630000000000000047D9
+t1358258944
+s18393
+i"vec.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp
+c00000000512BD01B000000000000134B
+t1361825819
+s4939
+i"ply.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.h
+c00000000512F85B1000000000000038E
+t1362068913
+s910
+i<stdio.h>
+i<string.h>
+i"Angel.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/teapot-n.ply
+c00000000512F66300000000000017B5F
+t1362060848
+s97119
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/vec.h
+c000000004CDECAB000000000000028D0
+t1289669296
+s10448
+i"Angel.h"
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/venus.ply
+c0000000051214ECA0000000000397B50
+t1361137354
+s3767120
+
+N/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/vshaderver.glsl
+c00000000512F63DA00000000000004CA
+t1362060250
+s1226
+
+N/usr/include/assert.h
+c000000004BBD2CE90000000000000DCB
+t1270689001
+s3531
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+Nply-Info.plist
+c00000000512F84FC000000000000037F
+t1362068732
+s895
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies383778001#383778001#0(0"0(0#1#0"8616689760#0"0#
+
+CCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/InitShader.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s383761657.174124
+e383761658.492167
+r1
+xCompileC
+xbuild/Load_Ply.build/Debug/ply.build/Objects-normal/i386/InitShader.o
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp383761657#383761658#0(0"0(0#0#94"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp8599340480#1634"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-generated-files.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-own-target-headers.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-all-target-headers.hmap" -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-project-headers.hmap" "-F/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/include" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources/i386" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources" -c "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/InitShader.cpp" -o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/InitShader.o"0#
+
+CCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/main.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s383762140.652289
+e383762141.225682
+r1
+xCompileC
+xbuild/Load_Ply.build/Debug/ply.build/Objects-normal/i386/main.o
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp383762140#383762141#0(273"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp: In function 'void init()':/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp:31: warning: deprecated conversion from string constant to 'char*'1(22@53"Deprecated conversion from string constant to 'char*'383762141#115#154#0(6@88"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp383762140#31#0#31#0#49"deprecated conversion from string constant to '*'0(0#0#88"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp8632148544#1622"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-generated-files.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-own-target-headers.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-all-target-headers.hmap" -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-project-headers.hmap" "-F/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/include" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources/i386" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources" -c "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/main.cpp" -o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+s383761718.090789
+e383761718.888317
+r1
+xCompileC
+xbuild/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.o
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp383761718#383761718#0(0"0(0#0#87"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp8623116544#1620"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mfix-and-continue -fvisibility-inlines-hidden -gdwarf-2 -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-generated-files.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-own-target-headers.hmap" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-all-target-headers.hmap" -iquote "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/ply-project-headers.hmap" "-F/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/include" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources/i386" "-I/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/DerivedSources" -c "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply.cpp" -o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.o"0#
+
+CCpResource build/Debug/ply.app/Contents/Resources/cat.ply cat.ply
+s383762000.764040
+e383762000.790259
+r1
+xCpResource
+xbuild/Debug/ply.app/Contents/Resources/cat.ply
+xcat.ply
+lSLF07#2@12"Copy cat.ply383762000#383762000#0(0"0(0#0#87"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/cat.ply8636349504#462"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/cat.ply" "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources"0#
+
+CCpResource build/Debug/ply.app/Contents/Resources/fshaderver.glsl fshaderver.glsl
+s383761657.142041
+e383761657.151124
+r1
+xCpResource
+xbuild/Debug/ply.app/Contents/Resources/fshaderver.glsl
+xfshaderver.glsl
+lSLF07#2@20"Copy fshaderver.glsl383761657#383761657#0(0"0(0#0#95"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/fshaderver.glsl8632741856#470"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/fshaderver.glsl" "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources"0#
+
+CCpResource build/Debug/ply.app/Contents/Resources/teapot-n.ply teapot-n.ply
+s383762140.643840
+e383762140.652187
+r1
+xCpResource
+xbuild/Debug/ply.app/Contents/Resources/teapot-n.ply
+xteapot-n.ply
+lSLF07#2@17"Copy teapot-n.ply383762140#383762140#0(0"0(0#0#92"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/teapot-n.ply8619539936#467"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/teapot-n.ply" "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources"0#
+
+CCpResource build/Debug/ply.app/Contents/Resources/venus.ply venus.ply
+s383762023.685755
+e383762023.853347
+r1
+xCpResource
+xbuild/Debug/ply.app/Contents/Resources/venus.ply
+xvenus.ply
+lSLF07#2@14"Copy venus.ply383762023#383762023#0(0"0(0#0#89"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/venus.ply8611193856#464"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/venus.ply" "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources"0#
+
+CCpResource build/Debug/ply.app/Contents/Resources/vshaderver.glsl vshaderver.glsl
+s383761657.143358
+e383761657.155970
+r1
+xCpResource
+xbuild/Debug/ply.app/Contents/Resources/vshaderver.glsl
+xvshaderver.glsl
+lSLF07#2@20"Copy vshaderver.glsl383761657#383761657#0(0"0(0#0#95"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/vshaderver.glsl8631461248#470"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/vshaderver.glsl" "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Resources"0#
+
+CLd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply" normal i386
+s383762141.225970
+e383762141.279790
+r1
+xLd
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply
+xnormal
+xi386
+lSLF07#2@123"Link /Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply383762141#383762141#0(0"0(0#0#0"8629407168#687"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /Developer/usr/bin/g++-4.2 -arch i386 "-L/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug" "-F/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug" -filelist "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Load_Ply.build/Debug/ply.build/Objects-normal/i386/ply.LinkFileList" -framework Foundation -framework AppKit -framework GLUT -framework OpenGL -o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/MacOS/ply"0#
+
+CProcessInfoPlistFile "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Info.plist" ply-Info.plist
+s383761657.138886
+e383761657.141961
+r1
+xProcessInfoPlistFile
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Info.plist
+xply-Info.plist
+lSLF07#2@22"Process ply-Info.plist383761657#383761657#0(0"0(0#0#94"/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/ply-Info.plist8634586496#427"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    builtin-infoPlistUtility ply-Info.plist -genpkginfo "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app/Contents/Info.plist"0#
+
+CTouch "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app"
+s383762141.279885
+e383762141.283691
+r1
+xTouch
+x/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app
+lSLF07#2@105"Touch /Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app383762141#383762141#0(0"0(0#0#0"8628493888#213"    cd "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply"    /usr/bin/touch -c "/Users/Sonja/Desktop/Schule/2 Jahr/2 Semester/Tölvugrafík/Forritun/Load_Ply/build/Debug/ply.app"0#
+

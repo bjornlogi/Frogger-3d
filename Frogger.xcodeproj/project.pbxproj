@@ -1,0 +1,251 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		40369F771709EFB300683494 /* porsche.ply in Resources */ = {isa = PBXBuildFile; fileRef = 40369F761709EFB300683494 /* porsche.ply */; };
+		40369F79170A4C4F00683494 /* turtle.ply in Resources */ = {isa = PBXBuildFile; fileRef = 40369F78170A4C4F00683494 /* turtle.ply */; };
+		4065AF33170DCD590024BC58 /* Frosch.ply in Resources */ = {isa = PBXBuildFile; fileRef = 4065AF32170DCD590024BC58 /* Frosch.ply */; };
+		4094B9F6170DD42D00816A55 /* Auto.ply in Resources */ = {isa = PBXBuildFile; fileRef = 4094B9F5170DD42D00816A55 /* Auto.ply */; };
+		63A79A9316DFBC9F00B3007A /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63A79A9216DFBC9F00B3007A /* GLUT.framework */; };
+		63A79A9516DFBC9F00B3007A /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63A79A9416DFBC9F00B3007A /* OpenGL.framework */; };
+		63A79A9716DFBCAB00B3007A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63A79A9616DFBCAB00B3007A /* main.cpp */; };
+		63A79A9C16DFBCF400B3007A /* fshaderver.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 63A79A9816DFBCF400B3007A /* fshaderver.glsl */; };
+		63A79A9D16DFBCF400B3007A /* InitShader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63A79A9916DFBCF400B3007A /* InitShader.cpp */; };
+		63A79A9E16DFBCF400B3007A /* ply.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 63A79A9A16DFBCF400B3007A /* ply.cpp */; };
+		63A79A9F16DFBCF400B3007A /* vshaderver.glsl in Resources */ = {isa = PBXBuildFile; fileRef = 63A79A9B16DFBCF400B3007A /* vshaderver.glsl */; };
+		63A79AC616DFBE4A00B3007A /* cat.ply in Resources */ = {isa = PBXBuildFile; fileRef = 63A79AC516DFBE4A00B3007A /* cat.ply */; };
+		63A79ACC16DFBE6500B3007A /* venus.ply in Resources */ = {isa = PBXBuildFile; fileRef = 63A79ACB16DFBE6500B3007A /* venus.ply */; };
+		63A79AE616DFBED300B3007A /* teapot-n.ply in Resources */ = {isa = PBXBuildFile; fileRef = 63A79AE516DFBED300B3007A /* teapot-n.ply */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		40369F761709EFB300683494 /* porsche.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = porsche.ply; sourceTree = "<group>"; };
+		40369F78170A4C4F00683494 /* turtle.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = turtle.ply; sourceTree = "<group>"; };
+		4065AF32170DCD590024BC58 /* Frosch.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Frosch.ply; sourceTree = "<group>"; };
+		4094B9F5170DD42D00816A55 /* Auto.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Auto.ply; sourceTree = "<group>"; };
+		63A79A8B16DFBC7C00B3007A /* ply.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ply.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		63A79A8E16DFBC7C00B3007A /* ply-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ply-Info.plist"; sourceTree = "<group>"; };
+		63A79A9216DFBC9F00B3007A /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = /System/Library/Frameworks/GLUT.framework; sourceTree = "<absolute>"; };
+		63A79A9416DFBC9F00B3007A /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = /System/Library/Frameworks/OpenGL.framework; sourceTree = "<absolute>"; };
+		63A79A9616DFBCAB00B3007A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		63A79A9816DFBCF400B3007A /* fshaderver.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fshaderver.glsl; sourceTree = "<group>"; };
+		63A79A9916DFBCF400B3007A /* InitShader.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = InitShader.cpp; sourceTree = "<group>"; };
+		63A79A9A16DFBCF400B3007A /* ply.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ply.cpp; sourceTree = "<group>"; };
+		63A79A9B16DFBCF400B3007A /* vshaderver.glsl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = vshaderver.glsl; sourceTree = "<group>"; };
+		63A79AC516DFBE4A00B3007A /* cat.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cat.ply; sourceTree = "<group>"; };
+		63A79ACB16DFBE6500B3007A /* venus.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = venus.ply; sourceTree = "<group>"; };
+		63A79AE516DFBED300B3007A /* teapot-n.ply */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "teapot-n.ply"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		63A79A8916DFBC7C00B3007A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63A79A9316DFBC9F00B3007A /* GLUT.framework in Frameworks */,
+				63A79A9516DFBC9F00B3007A /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		63A79A7D16DFBC7000B3007A = {
+			isa = PBXGroup;
+			children = (
+				63A79AE516DFBED300B3007A /* teapot-n.ply */,
+				63A79ACB16DFBE6500B3007A /* venus.ply */,
+				63A79AC516DFBE4A00B3007A /* cat.ply */,
+				63A79A9816DFBCF400B3007A /* fshaderver.glsl */,
+				63A79A9916DFBCF400B3007A /* InitShader.cpp */,
+				63A79A9A16DFBCF400B3007A /* ply.cpp */,
+				63A79A9B16DFBCF400B3007A /* vshaderver.glsl */,
+				63A79A8C16DFBC7C00B3007A /* Products */,
+				63A79A8E16DFBC7C00B3007A /* ply-Info.plist */,
+				63A79A9216DFBC9F00B3007A /* GLUT.framework */,
+				63A79A9416DFBC9F00B3007A /* OpenGL.framework */,
+				63A79A9616DFBCAB00B3007A /* main.cpp */,
+				40369F761709EFB300683494 /* porsche.ply */,
+				40369F78170A4C4F00683494 /* turtle.ply */,
+				4065AF32170DCD590024BC58 /* Frosch.ply */,
+				4094B9F5170DD42D00816A55 /* Auto.ply */,
+			);
+			sourceTree = "<group>";
+		};
+		63A79A8C16DFBC7C00B3007A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				63A79A8B16DFBC7C00B3007A /* ply.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		63A79A8A16DFBC7C00B3007A /* ply */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 63A79A9116DFBC7C00B3007A /* Build configuration list for PBXNativeTarget "ply" */;
+			buildPhases = (
+				63A79A8716DFBC7C00B3007A /* Resources */,
+				63A79A8816DFBC7C00B3007A /* Sources */,
+				63A79A8916DFBC7C00B3007A /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ply;
+			productName = ply;
+			productReference = 63A79A8B16DFBC7C00B3007A /* ply.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		63A79A7F16DFBC7000B3007A /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 63A79A8216DFBC7000B3007A /* Build configuration list for PBXProject "Frogger" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 63A79A7D16DFBC7000B3007A;
+			productRefGroup = 63A79A8C16DFBC7C00B3007A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				63A79A8A16DFBC7C00B3007A /* ply */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		63A79A8716DFBC7C00B3007A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63A79A9C16DFBCF400B3007A /* fshaderver.glsl in Resources */,
+				63A79A9F16DFBCF400B3007A /* vshaderver.glsl in Resources */,
+				63A79AC616DFBE4A00B3007A /* cat.ply in Resources */,
+				63A79ACC16DFBE6500B3007A /* venus.ply in Resources */,
+				63A79AE616DFBED300B3007A /* teapot-n.ply in Resources */,
+				40369F771709EFB300683494 /* porsche.ply in Resources */,
+				40369F79170A4C4F00683494 /* turtle.ply in Resources */,
+				4065AF33170DCD590024BC58 /* Frosch.ply in Resources */,
+				4094B9F6170DD42D00816A55 /* Auto.ply in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		63A79A8816DFBC7C00B3007A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				63A79A9716DFBCAB00B3007A /* main.cpp in Sources */,
+				63A79A9D16DFBCF400B3007A /* InitShader.cpp in Sources */,
+				63A79A9E16DFBCF400B3007A /* ply.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		63A79A8016DFBC7000B3007A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		63A79A8116DFBC7000B3007A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+		63A79A8F16DFBC7C00B3007A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				INFOPLIST_FILE = "ply-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ply;
+			};
+			name = Debug;
+		};
+		63A79A9016DFBC7C00B3007A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "ply-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = ply;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		63A79A8216DFBC7000B3007A /* Build configuration list for PBXProject "Frogger" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63A79A8016DFBC7000B3007A /* Debug */,
+				63A79A8116DFBC7000B3007A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		63A79A9116DFBC7C00B3007A /* Build configuration list for PBXNativeTarget "ply" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				63A79A8F16DFBC7C00B3007A /* Debug */,
+				63A79A9016DFBC7C00B3007A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 63A79A7F16DFBC7000B3007A /* Project object */;
+}
